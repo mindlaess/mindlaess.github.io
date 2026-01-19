@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home Page on Mindlessly hacking</title>
-    <link>https://mindlaess.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home Page on Mindlessly hacking</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mindlaess.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First post!</title>
-      <link>https://mindlaess.github.io/firstpost/</link>
+      <link>http://localhost:1313/firstpost/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://mindlaess.github.io/firstpost/</guid>
+      <guid>http://localhost:1313/firstpost/</guid>
       <description>Eventually there will be a first post here</description>
     </item>
     <item>
       <title>whoami</title>
-      <link>https://mindlaess.github.io/whoami/</link>
+      <link>http://localhost:1313/whoami/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://mindlaess.github.io/whoami/</guid>
+      <guid>http://localhost:1313/whoami/</guid>
       <description>So who&amp;rsquo;s mindless anyway?</description>
     </item>
   </channel>
