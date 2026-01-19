@@ -1,0 +1,17 @@
+baseURL = 'https://mindlaess.github.io/'
+languageCode = 'en-us'
+title = 'Mindlessly hacking'
+theme = 'hyde'
+
+[params]
+    description = 'Welcome in my journey through the cybersec woods!'
+    author = 'mindless'
+
+[Menus]
+  main = [
+    {Name = "About Me", URL = "/whoami/", weight = 1},
+    { identifier = "separator", weight = 2 },
+    {Name = "Github", URL = "https://github.com/mindlaess/", weight = 3},
+    {Name = "Telegram", URL = "https://t.me/Mindless_lovesyou/", weight = 4},
+    {Name = "LinkedIn", URL = "https://www.linkedin.com/in/mattia-ricciardi-71749b201/", weight = 5}
+  ]
